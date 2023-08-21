@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119778923076",
+    "project_id": "grupal-157b9",
+    "storage_bucket": "grupal-157b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119778923076:android:17cd869c7a3aaadf016211",
+        "android_client_info": {
+          "package_name": "com.ec.grupal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119778923076-3r4rcgtk79kh8tonm6lcisri2og2e5bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqVQEagSuCJF6lVMqFdAavAXdVv-KVXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119778923076-3r4rcgtk79kh8tonm6lcisri2og2e5bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
